@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-04T22:24:54 IST" name="OpenCart Test Suite" finished-at="2022-04-04T22:25:10 IST" duration-ms="16676">
+    <groups>
+      <group name="sanity">
+        <method signature="TC_002_Login.test_Login()[pri:0, instance:testCases.TC_002_Login@7d8995e]" name="test_Login" class="testCases.TC_002_Login"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC_002_Login.test_Login()[pri:0, instance:testCases.TC_002_Login@7d8995e]" name="test_Login" class="testCases.TC_002_Login"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2022-04-04T22:24:54 IST" name="OpenCart Tests" finished-at="2022-04-04T22:25:10 IST" duration-ms="16676">
+      <class name="testCases.TC_002_Login">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_002_Login@7d8995e]" started-at="2022-04-04T22:24:54 IST" name="setup" finished-at="2022-04-04T22:25:02 IST" duration-ms="7992" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Login()[pri:0, instance:testCases.TC_002_Login@7d8995e]" started-at="2022-04-04T22:25:02 IST" name="test_Login" finished-at="2022-04-04T22:25:09 IST" duration-ms="7404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_Login@7d8995e]" started-at="2022-04-04T22:25:09 IST" name="tearDown" finished-at="2022-04-04T22:25:10 IST" duration-ms="777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_Login -->
+    </test> <!-- OpenCart Tests -->
+  </suite> <!-- OpenCart Test Suite -->
+</testng-results>

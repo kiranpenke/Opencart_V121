@@ -1,0 +1,298 @@
+12:47:31.030 [main] INFO  testCases.TC_001_AccoutRegistration - Chrome Launched 
+12:47:40.088 [main] INFO  testCases.TC_001_AccoutRegistration -  Starting TC_001_AccountRegistration 
+12:47:42.399 [main] INFO  testCases.TC_001_AccoutRegistration - Home Page Displayed 
+12:47:43.033 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on My Account 
+12:47:44.924 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Register 
+12:47:45.576 [main] INFO  testCases.TC_001_AccoutRegistration - Provided First Name 
+12:47:45.814 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Last Name 
+12:47:45.965 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Email 
+12:47:46.075 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Telephone 
+12:47:46.226 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Password 
+12:47:46.322 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Confrmed Password 
+12:47:46.425 [main] INFO  testCases.TC_001_AccoutRegistration - Set Privacy Policy 
+12:47:49.034 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Continue 
+12:47:49.245 [main] ERROR testCases.TC_001_AccoutRegistration - Account Registration Failed 
+12:53:12.929 [main] INFO  testCases.TC_001_AccoutRegistration - Chrome Launched 
+12:53:18.883 [main] INFO  testCases.TC_001_AccoutRegistration -  Starting TC_001_AccountRegistration 
+12:53:24.783 [main] INFO  testCases.TC_001_AccoutRegistration - Home Page Displayed 
+12:53:25.920 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on My Account 
+12:53:27.779 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Register 
+12:53:28.321 [main] INFO  testCases.TC_001_AccoutRegistration - Provided First Name 
+12:53:28.502 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Last Name 
+12:53:28.693 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Email 
+12:53:28.812 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Telephone 
+12:53:28.965 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Password 
+12:53:29.095 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Confrmed Password 
+12:53:29.204 [main] INFO  testCases.TC_001_AccoutRegistration - Set Privacy Policy 
+12:53:31.808 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Continue 
+12:53:31.892 [main] INFO  testCases.TC_001_AccoutRegistration - Account Registration Success 
+12:53:31.895 [main] INFO  testCases.TC_001_AccoutRegistration -  Finished TC_001_AccountRegistration 
+14:31:04.272 [main] INFO  testCases.TC_001_AccoutRegistration - Chrome Launched 
+14:31:27.035 [main] INFO  testCases.TC_001_AccoutRegistration -  Starting TC_001_AccountRegistration 
+14:31:31.243 [main] INFO  testCases.TC_001_AccoutRegistration - Home Page Displayed 
+14:31:32.228 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on My Account 
+14:31:33.634 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Register 
+14:31:33.926 [main] INFO  testCases.TC_001_AccoutRegistration - Provided First Name 
+14:31:34.058 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Last Name 
+14:31:34.201 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Email 
+14:31:34.302 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Telephone 
+14:31:34.406 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Password 
+14:31:34.559 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Confrmed Password 
+14:31:34.707 [main] INFO  testCases.TC_001_AccoutRegistration - Set Privacy Policy 
+14:31:37.141 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Continue 
+14:31:37.228 [main] INFO  testCases.TC_001_AccoutRegistration - Account Registration Success 
+14:31:37.230 [main] INFO  testCases.TC_001_AccoutRegistration -  Finished TC_001_AccountRegistration 
+14:31:38.331 [main] INFO  testCases.TC_002_Login - Chrome Launched 
+14:31:41.694 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+14:31:45.747 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+14:31:46.116 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+14:31:47.571 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+14:31:47.731 [main] INFO  testCases.TC_002_Login - Provided Email 
+14:31:47.844 [main] INFO  testCases.TC_002_Login - Provided Password 
+14:31:49.364 [main] INFO  testCases.TC_002_Login - Clicked on Login
+14:33:29.575 [main] ERROR testCases.TC_002_Login - Login Failed 
+14:36:32.518 [main] INFO  testCases.TC_001_AccoutRegistration - Chrome Launched 
+14:36:39.590 [main] INFO  testCases.TC_001_AccoutRegistration -  Starting TC_001_AccountRegistration 
+14:36:44.599 [main] INFO  testCases.TC_001_AccoutRegistration - Home Page Displayed 
+14:36:45.407 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on My Account 
+14:36:47.130 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Register 
+14:36:47.707 [main] INFO  testCases.TC_001_AccoutRegistration - Provided First Name 
+14:36:47.824 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Last Name 
+14:36:47.973 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Email 
+14:36:48.078 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Telephone 
+14:36:48.209 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Password 
+14:36:48.307 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Confrmed Password 
+14:36:48.401 [main] INFO  testCases.TC_001_AccoutRegistration - Set Privacy Policy 
+14:36:51.082 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Continue 
+14:36:51.161 [main] INFO  testCases.TC_001_AccoutRegistration - Account Registration Success 
+14:36:51.172 [main] INFO  testCases.TC_001_AccoutRegistration -  Finished TC_001_AccountRegistration 
+14:36:52.843 [main] INFO  testCases.TC_002_Login - Chrome Launched 
+14:36:59.456 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+14:37:08.119 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+14:37:08.593 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+14:37:10.430 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+14:37:10.897 [main] INFO  testCases.TC_002_Login - Provided Email 
+14:37:11.146 [main] INFO  testCases.TC_002_Login - Provided Password 
+14:37:15.020 [main] INFO  testCases.TC_002_Login - Clicked on Login
+14:37:15.143 [main] INFO  testCases.TC_002_Login - Login Success 
+14:37:15.143 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+16:51:40.517 [main] INFO  testCases.TC_003_LoginDDT - Chrome Launched 
+16:52:14.518 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:52:20.345 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+16:52:22.715 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+16:52:25.712 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+16:52:26.820 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+16:52:27.127 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+16:52:31.397 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:52:31.473 [main] INFO  testCases.TC_003_LoginDDT - Login Success 
+16:52:37.275 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+16:52:37.367 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:52:39.481 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+16:52:39.582 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+16:52:40.948 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+16:52:41.095 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+16:52:41.197 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+16:52:43.018 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:54:20.880 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+16:54:20.881 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+16:54:20.905 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:54:21.167 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+16:54:21.325 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:54:21.334 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+16:54:43.681 [main] INFO  testCases.TC_003_LoginDDT - Chrome Launched 
+16:54:55.507 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:54:58.750 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+16:54:59.041 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+16:55:00.420 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+16:55:00.597 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+16:55:00.732 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+16:55:03.362 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:55:03.436 [main] INFO  testCases.TC_003_LoginDDT - Login Success 
+16:55:05.661 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+16:55:05.694 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:55:07.041 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+16:55:07.137 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+16:55:08.470 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+16:55:08.676 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+16:55:08.790 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+16:55:10.341 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:56:50.416 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+16:56:50.417 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+16:56:50.426 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:56:52.076 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+16:56:52.169 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+16:56:53.520 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+16:56:53.633 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+16:56:53.731 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+16:56:55.286 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:58:35.374 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+16:58:35.375 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+16:58:35.385 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:58:36.736 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+16:58:36.810 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+16:58:38.100 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+16:58:38.209 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+16:58:38.294 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+16:58:39.838 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+17:00:19.861 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+17:00:19.861 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+22:21:57.439 [main] INFO  testCases.TC_001_AccoutRegistration - Chrome Launched 
+22:22:17.809 [main] INFO  testCases.TC_001_AccoutRegistration -  Starting TC_001_AccountRegistration 
+22:22:26.256 [main] INFO  testCases.TC_001_AccoutRegistration - Home Page Displayed 
+22:22:28.329 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on My Account 
+22:22:32.621 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Register 
+22:22:34.282 [main] INFO  testCases.TC_001_AccoutRegistration - Provided First Name 
+22:22:34.511 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Last Name 
+22:22:34.684 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Email 
+22:22:34.817 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Telephone 
+22:22:34.936 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Password 
+22:22:35.046 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Confrmed Password 
+22:22:35.144 [main] INFO  testCases.TC_001_AccoutRegistration - Set Privacy Policy 
+22:22:38.022 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Continue 
+22:22:38.137 [main] INFO  testCases.TC_001_AccoutRegistration - Account Registration Success 
+22:22:38.167 [main] INFO  testCases.TC_001_AccoutRegistration -  Finished TC_001_AccountRegistration 
+22:22:39.896 [main] INFO  testCases.TC_002_Login - Chrome Launched 
+22:22:44.407 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+22:22:55.871 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+22:22:56.502 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+22:22:57.971 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+22:22:58.627 [main] INFO  testCases.TC_002_Login - Provided Email 
+22:22:58.864 [main] INFO  testCases.TC_002_Login - Provided Password 
+22:23:02.037 [main] INFO  testCases.TC_002_Login - Clicked on Login
+22:23:02.184 [main] INFO  testCases.TC_002_Login - Login Success 
+22:23:02.185 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+22:24:56.091 [main] INFO  testCases.TC_002_Login - Chrome Launched 
+22:25:02.530 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+22:25:05.237 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+22:25:05.634 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+22:25:07.053 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+22:25:07.190 [main] INFO  testCases.TC_002_Login - Provided Email 
+22:25:07.296 [main] INFO  testCases.TC_002_Login - Provided Password 
+22:25:09.856 [main] INFO  testCases.TC_002_Login - Clicked on Login
+22:25:09.925 [main] INFO  testCases.TC_002_Login - Login Success 
+22:25:09.928 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+22:48:22.364 [main] INFO  testCases.TC_001_AccoutRegistration - Chrome Launched 
+22:48:45.955 [main] INFO  testCases.TC_001_AccoutRegistration -  Starting TC_001_AccountRegistration 
+22:48:52.022 [main] INFO  testCases.TC_001_AccoutRegistration - Home Page Displayed 
+22:48:54.200 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on My Account 
+22:48:57.992 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Register 
+22:49:00.433 [main] INFO  testCases.TC_001_AccoutRegistration - Provided First Name 
+22:49:00.630 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Last Name 
+22:49:00.810 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Email 
+22:49:00.953 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Telephone 
+22:49:01.163 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Password 
+22:49:01.258 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Confrmed Password 
+22:49:01.354 [main] INFO  testCases.TC_001_AccoutRegistration - Set Privacy Policy 
+22:49:04.647 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Continue 
+22:49:05.028 [main] INFO  testCases.TC_001_AccoutRegistration - Account Registration Success 
+22:49:05.067 [main] INFO  testCases.TC_001_AccoutRegistration -  Finished TC_001_AccountRegistration 
+22:49:06.499 [main] INFO  testCases.TC_002_Login - Chrome Launched 
+22:49:12.392 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+22:49:18.701 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+22:49:19.495 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+22:49:21.782 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+22:49:22.823 [main] INFO  testCases.TC_002_Login - Provided Email 
+22:49:23.003 [main] INFO  testCases.TC_002_Login - Provided Password 
+22:49:25.580 [main] INFO  testCases.TC_002_Login - Clicked on Login
+22:49:25.781 [main] INFO  testCases.TC_002_Login - Login Success 
+22:49:25.781 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+23:21:39.340 [main] INFO  testCases.TC_001_AccoutRegistration - Chrome Launched 
+23:22:01.461 [main] INFO  testCases.TC_001_AccoutRegistration -  Starting TC_001_AccountRegistration 
+23:22:06.111 [main] INFO  testCases.TC_001_AccoutRegistration - Home Page Displayed 
+23:22:07.486 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on My Account 
+23:22:09.229 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Register 
+23:22:09.658 [main] INFO  testCases.TC_001_AccoutRegistration - Provided First Name 
+23:22:09.764 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Last Name 
+23:22:09.885 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Email 
+23:22:09.995 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Telephone 
+23:22:10.179 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Password 
+23:22:10.297 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Confrmed Password 
+23:22:10.433 [main] INFO  testCases.TC_001_AccoutRegistration - Set Privacy Policy 
+23:22:13.323 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Continue 
+23:22:13.576 [main] INFO  testCases.TC_001_AccoutRegistration - Account Registration Success 
+23:22:13.581 [main] INFO  testCases.TC_001_AccoutRegistration -  Finished TC_001_AccountRegistration 
+23:22:20.108 [main] INFO  testCases.TC_002_Login - Chrome Launched 
+23:22:23.774 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+23:22:28.551 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+23:22:28.850 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+23:22:30.546 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+23:22:30.716 [main] INFO  testCases.TC_002_Login - Provided Email 
+23:22:30.898 [main] INFO  testCases.TC_002_Login - Provided Password 
+23:22:33.465 [main] INFO  testCases.TC_002_Login - Clicked on Login
+23:22:33.544 [main] INFO  testCases.TC_002_Login - Login Success 
+23:22:33.544 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+23:38:17.223 [main] INFO  testCases.TC_001_AccoutRegistration - Chrome Launched 
+23:38:41.273 [main] INFO  testCases.TC_001_AccoutRegistration -  Starting TC_001_AccountRegistration 
+23:38:47.047 [main] INFO  testCases.TC_001_AccoutRegistration - Home Page Displayed 
+23:38:48.463 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on My Account 
+23:38:50.059 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Register 
+23:38:50.874 [main] INFO  testCases.TC_001_AccoutRegistration - Provided First Name 
+23:38:51.009 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Last Name 
+23:38:51.148 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Email 
+23:38:51.245 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Telephone 
+23:38:51.575 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Password 
+23:38:51.686 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Confrmed Password 
+23:38:51.775 [main] INFO  testCases.TC_001_AccoutRegistration - Set Privacy Policy 
+23:38:55.532 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Continue 
+23:38:55.703 [main] INFO  testCases.TC_001_AccoutRegistration - Account Registration Success 
+23:38:55.721 [main] INFO  testCases.TC_001_AccoutRegistration -  Finished TC_001_AccountRegistration 
+23:38:56.908 [main] INFO  testCases.TC_002_Login - Chrome Launched 
+23:39:06.066 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+23:39:11.266 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+23:39:11.497 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+23:39:12.932 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+23:39:13.706 [main] INFO  testCases.TC_002_Login - Provided Email 
+23:39:13.966 [main] INFO  testCases.TC_002_Login - Provided Password 
+23:39:16.564 [main] INFO  testCases.TC_002_Login - Clicked on Login
+23:39:16.674 [main] INFO  testCases.TC_002_Login - Login Success 
+23:39:16.674 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+23:42:27.998 [main] INFO  testCases.TC_001_AccoutRegistration - Chrome Launched 
+23:43:05.575 [main] INFO  testCases.TC_001_AccoutRegistration -  Starting TC_001_AccountRegistration 
+23:43:14.857 [main] INFO  testCases.TC_001_AccoutRegistration - Home Page Displayed 
+23:43:16.702 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on My Account 
+23:43:23.187 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Register 
+23:43:24.818 [main] INFO  testCases.TC_001_AccoutRegistration - Provided First Name 
+23:43:24.992 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Last Name 
+23:43:25.167 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Email 
+23:43:25.279 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Telephone 
+23:43:25.429 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Password 
+23:43:25.533 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Confrmed Password 
+23:43:25.616 [main] INFO  testCases.TC_001_AccoutRegistration - Set Privacy Policy 
+23:43:28.275 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Continue 
+23:43:28.343 [main] INFO  testCases.TC_001_AccoutRegistration - Account Registration Success 
+23:43:28.360 [main] INFO  testCases.TC_001_AccoutRegistration -  Finished TC_001_AccountRegistration 
+23:43:30.961 [main] INFO  testCases.TC_002_Login - Chrome Launched 
+23:43:38.379 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+23:43:42.772 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+23:43:43.107 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+23:43:44.464 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+23:43:44.639 [main] INFO  testCases.TC_002_Login - Provided Email 
+23:43:44.752 [main] INFO  testCases.TC_002_Login - Provided Password 
+23:43:47.742 [main] INFO  testCases.TC_002_Login - Clicked on Login
+23:43:47.862 [main] INFO  testCases.TC_002_Login - Login Success 
+23:43:47.863 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+23:44:43.687 [main] INFO  testCases.TC_001_AccoutRegistration - Chrome Launched 
+23:44:52.325 [main] INFO  testCases.TC_001_AccoutRegistration -  Starting TC_001_AccountRegistration 
+23:44:54.777 [main] INFO  testCases.TC_001_AccoutRegistration - Home Page Displayed 
+23:44:55.364 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on My Account 
+23:44:56.717 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Register 
+23:44:56.825 [main] INFO  testCases.TC_001_AccoutRegistration - Provided First Name 
+23:44:56.954 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Last Name 
+23:44:57.075 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Email 
+23:44:57.184 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Telephone 
+23:44:57.288 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Password 
+23:44:57.405 [main] INFO  testCases.TC_001_AccoutRegistration - Provided Confrmed Password 
+23:44:57.489 [main] INFO  testCases.TC_001_AccoutRegistration - Set Privacy Policy 
+23:44:59.937 [main] INFO  testCases.TC_001_AccoutRegistration - Clicked on Continue 
+23:45:00.013 [main] INFO  testCases.TC_001_AccoutRegistration - Account Registration Success 
+23:45:00.016 [main] INFO  testCases.TC_001_AccoutRegistration -  Finished TC_001_AccountRegistration 
+23:45:00.877 [main] INFO  testCases.TC_002_Login - Chrome Launched 
+23:45:05.309 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+23:45:12.028 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+23:45:12.259 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+23:45:13.974 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+23:45:14.113 [main] INFO  testCases.TC_002_Login - Provided Email 
+23:45:14.231 [main] INFO  testCases.TC_002_Login - Provided Password 
+23:45:16.752 [main] INFO  testCases.TC_002_Login - Clicked on Login
+23:45:16.807 [main] INFO  testCases.TC_002_Login - Login Success 
+23:45:16.807 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
